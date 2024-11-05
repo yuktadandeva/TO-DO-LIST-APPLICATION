@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;    
+}
+
+/* header {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 40px;
+} */
+
+.img{
+    width: 40px;
+    height: 40px;
+    margin: 15px;
+}
+
+button{
+    margin: 5px;
+}
+
+input{
+    padding: 5px;
+    width: 100%;
+}
+
+#addBtn{
+    width: 100%;
+}
+
+.tasks div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.line{
+    border : 1px solid red;
+    width : 5%;
+    position: absolute;
+}
